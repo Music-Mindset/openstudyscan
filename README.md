@@ -44,4 +44,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+## Changelog
+
+### Version 0.1.0
+- Initial prototype.
+- Basic functionality implemented (scans and converts, but needs improvement).
+
+
 Let me know if you'd like to add more features or make adjustments to this README!
